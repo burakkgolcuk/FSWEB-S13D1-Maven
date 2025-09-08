@@ -8,17 +8,17 @@ public class Main {
         System.out.println(shouldWakeUp(true, 1));
         System.out.println(shouldWakeUp(false, 2));
         System.out.println(shouldWakeUp(true, 8));
-         System.out.println(shouldWakeUp(true, -1));
+        System.out.println(shouldWakeUp(true, -1));
 
-         System.out.println(hasTeen(9, 99, 19));
-         System.out.println(hasTeen(23, 15, 42));
-         System.out.println(hasTeen(22, 23, 34));
+        System.out.println(hasTeen(9, 99, 19));
+        System.out.println(hasTeen(23, 15, 42));
+        System.out.println(hasTeen(22, 23, 34));
 
-         System.out.println(isCatPlaying(true, 10));
+        System.out.println(isCatPlaying(true, 10));
         System.out.println(isCatPlaying(false, 36));
         System.out.println(isCatPlaying(false, 35));
 
-         System.out.println(area(5.0, 4.0));
+        System.out.println(area(5.0, 4.0));
         System.out.println(area(-1.0, 4.0));
         System.out.println(area(5.0));
         System.out.println(area(-1));
